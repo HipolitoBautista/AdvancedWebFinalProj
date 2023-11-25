@@ -1,0 +1,96 @@
+[2023-11-24T00:32:21.300193+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T00:32:21.300576+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T00:32:31.969836+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T00:32:31.969989+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T00:32:36.011343+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T00:32:36.011756+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T00:33:19.308614+00:00] AWT.INFO: Request::process--- request received --applicantverification--- parameters:""
+[2023-11-24T00:35:42.130053+00:00] AWT.INFO: Request::process--- request received --applicantverification--- parameters:""
+[2023-11-24T00:35:42.130253+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T00:35:56.211662+00:00] AWT.INFO: Request::process--- request received --futureacademicdetails--- parameters:""
+[2023-11-24T00:35:56.212203+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T00:36:02.634229+00:00] AWT.INFO: Request::process--- request received --pastacademicdetails--- parameters:""
+[2023-11-24T00:36:02.634610+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T00:52:23.368463+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T00:52:23.368694+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:47:46.556909+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T01:47:46.557190+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:50:21.017830+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T01:50:21.019011+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:53:23.168106+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T01:53:23.168584+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:53:29.028365+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T01:53:29.028766+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-24T01:53:29.028846+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-24T01:53:29.028891+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-24T01:54:55.634367+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T01:54:55.634649+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:55:06.507051+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T01:55:06.507413+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:55:35.527126+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T01:55:35.527420+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-24T01:55:35.527491+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-24T01:55:35.527531+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-24T01:55:39.449302+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T01:55:39.449711+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:58:17.881561+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T01:58:17.882025+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T01:58:22.193502+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T01:58:22.193715+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-24T01:58:22.193819+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-24T01:58:22.193871+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-24T01:58:26.937905+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T01:58:26.938793+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T02:31:54.713155+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T02:31:54.714628+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T02:33:39.709072+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T02:33:39.710543+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T02:33:44.901599+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T02:33:44.903216+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-24T02:33:44.903472+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-24T02:33:44.903533+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-24T02:34:20.522923+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:""
+[2023-11-24T02:34:44.021994+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:""
+[2023-11-24T02:34:44.022204+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T02:35:14.321004+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":2,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:35:14.321285+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-11-24T02:35:21.992910+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":102,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:35:21.993202+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-11-24T02:35:22.019632+00:00] AWT.ERROR: [mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`awt`.`studycost`, CONSTRAINT `studycost_ibfk_1` FOREIGN KEY (`Form_ID`) REFERENCES `applications` (`Form_ID`)) in /var/www/html/classes/class.studycost.php:286 Stack trace: #0 /var/www/html/classes/class.studycost.php(286): mysqli_stmt->execute(Array) #1 /var/www/html/classes/class.studycost.php(75): StudyCost->InputNewStudyCosts(Array) #2 /var/www/html/classes/class.request.php(72): StudyCost->POST(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-24T02:35:29.371607+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":13,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:35:29.371855+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-11-24T02:35:29.378176+00:00] AWT.ERROR: [mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`awt`.`studycost`, CONSTRAINT `studycost_ibfk_1` FOREIGN KEY (`Form_ID`) REFERENCES `applications` (`Form_ID`)) in /var/www/html/classes/class.studycost.php:286 Stack trace: #0 /var/www/html/classes/class.studycost.php(286): mysqli_stmt->execute(Array) #1 /var/www/html/classes/class.studycost.php(75): StudyCost->InputNewStudyCosts(Array) #2 /var/www/html/classes/class.request.php(72): StudyCost->POST(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-24T02:35:35.970865+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":5,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:35:35.971249+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-11-24T02:35:35.976795+00:00] AWT.ERROR: [mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`awt`.`studycost`, CONSTRAINT `studycost_ibfk_1` FOREIGN KEY (`Form_ID`) REFERENCES `applications` (`Form_ID`)) in /var/www/html/classes/class.studycost.php:286 Stack trace: #0 /var/www/html/classes/class.studycost.php(286): mysqli_stmt->execute(Array) #1 /var/www/html/classes/class.studycost.php(75): StudyCost->InputNewStudyCosts(Array) #2 /var/www/html/classes/class.request.php(72): StudyCost->POST(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-24T02:35:56.815124+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":2,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:35:56.815395+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-11-24T02:35:56.820248+00:00] AWT.ERROR: [mysqli_sql_exception: Duplicate entry '2' for key 'studycost.studycost_UN' in /var/www/html/classes/class.studycost.php:286 Stack trace: #0 /var/www/html/classes/class.studycost.php(286): mysqli_stmt->execute(Array) #1 /var/www/html/classes/class.studycost.php(75): StudyCost->InputNewStudyCosts(Array) #2 /var/www/html/classes/class.request.php(72): StudyCost->POST(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-24T02:36:05.993867+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":2,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:36:05.994046+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [DELETE]
+[2023-11-24T02:37:33.686488+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":2,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:37:33.687172+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [PUT]
+[2023-11-24T02:39:14.835314+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\n  \"Form_ID\": 2,\n  \"P_Tuition_SchoolFee\": 5000,\n  \"P_Books_Supplies\": 250,\n  \"P_Boarding_Lodging\": 800,\n  \"P_Traveling\": 100,\n  \"P_Expenses\": 400,\n  \"P_total\": 6950,\n  \"Tuition_SchoolFee\": 4500,\n  \"Books_Supplies\": 200,\n  \"Boarding_Lodging\": 750,\n  \"Traveling\": 80,\n  \"Expenses\": 350,\n  \"total\": 5900\n}"
+[2023-11-24T02:39:14.837298+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-11-24T02:39:33.570320+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":2,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:39:33.570861+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [DELETE]
+[2023-11-24T02:39:47.617770+00:00] AWT.INFO: Request::process--- request received --studycost--- parameters:"{\"Form_ID\":2,\"P_Tuition_SchoolFee\":5000,\"P_Books_Supplies\":250,\"P_Boarding_Lodging\":800,\"P_Traveling\":100,\"P_Expenses\":400,\"P_total\":6950,\"Tuition_SchoolFee\":4500,\"Books_Supplies\":200,\"Boarding_Lodging\":750,\"Traveling\":80,\"Expenses\":350,\"total\":5900}"
+[2023-11-24T02:39:47.618439+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-11-24T02:59:05.224080+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T02:59:05.227505+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T13:23:31.301532+00:00] AWT.INFO: Request::process--- request received --portaljohndoeee123--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T13:23:31.302649+00:00] AWT.INFO: Request::processunknown resource request...
+[2023-11-24T13:24:48.781118+00:00] AWT.INFO: Request::process--- request received --portaljohndoeee123--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T13:24:48.781565+00:00] AWT.INFO: Request::processunknown resource request...
+[2023-11-24T13:24:48.781621+00:00] AWT.INFO: Request::processunknown method sent...
+[2023-11-24T13:24:48.781647+00:00] AWT.INFO: GETunknown method sent2...
+[2023-11-24T13:26:17.715280+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T13:26:17.715719+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T13:26:50.104426+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T13:26:50.104736+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-24T13:26:50.104804+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-24T13:26:50.104831+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-24T13:26:59.865743+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-24T13:26:59.866055+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-24T13:28:05.204108+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-24T13:28:05.206111+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]

@@ -1,0 +1,32 @@
+version: "2.1"
+services:
+  apache:
+    container_name: awt-server
+    image: awt/php:8.1-apache
+    volumes:
+      - /home/hbautista/Development/awt/shared:/var/www/html
+    ports:
+      - 8036:80
+    restart: unless-stopped
+    environment:
+      - DBHOST=172.18.0.5
+      - DBUSER=root
+      - DBPWD=1TimePass!
+      - DBNAME=awt
+      - RLHOST=172.18.0.4
+      - RLPORT=6379
+      - RLPWD=awt2023
+      - RL_MAX=40
+      - RL_SECS=60
+
+  nodejs:
+    container_name: awt-nodejs
+    image: nodehandler:latest
+    volumes:
+      - /home/hbautista/Development/app:/usr/src/app
+    ports:
+      - 8038:8038
+    restart: unless-stopped
+    working_dir: /usr/src/app
+    command: node app.js
+

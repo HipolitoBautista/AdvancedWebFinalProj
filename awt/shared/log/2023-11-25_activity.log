@@ -1,0 +1,41 @@
+[2023-11-25T00:02:42.575824+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:02:42.578799+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-25T00:02:49.016518+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-25T00:02:49.016824+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-25T00:02:52.259747+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-25T00:02:52.259968+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-25T00:02:52.260026+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-25T00:02:52.260059+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-25T00:03:10.835685+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"id\":12,\"first_name\":\"John\",\"last_name\":\"Doe\",\"country\":\"USA\",\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:03:10.836001+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [POST]
+[2023-11-25T00:03:39.513857+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"id\":12,\"first_name\":\"John\",\"last_name\":\"Doe\",\"country\":\"USA\",\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:03:39.514057+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [DELETE]
+[2023-11-25T00:10:05.798714+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:10:05.799787+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-25T00:10:15.950755+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-25T00:10:15.951031+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-25T00:10:15.951993+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-25T00:10:15.952061+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-25T00:10:18.877953+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-25T00:10:18.878086+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-25T00:10:35.924128+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"id\":13,\"first_name\":\"John\",\"last_name\":\"Doe\",\"country\":\"USA\",\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:10:35.924928+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [POST]
+[2023-11-25T00:10:36.036147+00:00] AWT.ERROR: [mysqli_sql_exception: Duplicate entry '13' for key 'applicant.PRIMARY' in /var/www/html/classes/class.applicants.php:300 Stack trace: #0 /var/www/html/classes/class.applicants.php(300): mysqli_stmt->execute(Array) #1 /var/www/html/classes/class.applicants.php(73): Applicants->InputNewUser(Array) #2 /var/www/html/classes/class.request.php(72): Applicants->POST(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-25T00:11:32.831287+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"id\":\"11\",\"first_name\":\"John\",\"last_name\":\"Doe\",\"country\":\"USA\",\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:11:32.831514+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [POST]
+[2023-11-25T00:13:35.672977+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"first_name\":\"John\",\"last_name\":\"dwwww\",\"country\":\"USA\",\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:13:35.674017+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [PUT]
+[2023-11-25T00:13:46.174110+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"first_name\":\"John\",\"last_name\":\"dwwww\",\"country\":\"USA\",\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:13:46.174306+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [PUT]
+[2023-11-25T00:14:23.813704+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"first_name\":\"John\",\"last_name\":\"dwwww\",\"country\":\"USA\",\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T00:14:23.813848+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [DELETE]
+[2023-11-25T05:40:11.259857+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T05:40:11.267068+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-25T05:40:18.913815+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-25T05:40:18.914179+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-25T05:40:18.914243+00:00] AWT.DEBUG: getAllApplicants() orderSql: 
+[2023-11-25T05:40:18.914270+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 2
+[2023-11-25T05:40:23.773531+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-25T05:40:23.773786+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-25T05:44:53.528752+00:00] AWT.INFO: Request::process--- request received --portal--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-25T05:44:53.529130+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]

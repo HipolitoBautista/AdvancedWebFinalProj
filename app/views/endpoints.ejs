@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('partials/head'); %>
+<body class="bg-gradient-primary">
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <%- include('partials/sidebar.ejs'); %>
+    
+            <!-- Content Wrapper -->
+            <div class="d-flex flex-column background-endpoint-column">
+    
+                <!-- Main Content -->
+                <div class="container">
+                    <!-- Outer Row -->
+                        <div class = "d-flex flex-column">
+
+                            <div class = "HttpMethods">
+                                <div class = "row">
+                                    <!-- Earnings (Monthly) Card Examaple -->
+                                    <div class="col-12 mt-2" >
+                                        <div class="card border-left-primary shadow h-100 py-2">
+                                            <div class="card-body" >
+                                                <div class="row no-gut
+                                                ters align-items-center d-flex flex-column">
+                                                <div class="h6 font-weight-bold text-primary text-uppercase mb-1 endpointDescription"> </div>
+                                                <br>    
+                                                <div class="col mr-2">
+                                                        <div class="h5 font-weight-bold text-primary text-uppercase mb-1 mt-4">HTTP Method:
+                                                            <select name="methodSelected" class = "methodSelected">
+                                                              <option value="GET" selected>GET</option>
+                                                              <option value="POST">POST</option>
+                                                              <option value="PUT">PUT</option>
+                                                              <option value="DELETE">DELETE</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class = "d-flex">
+                                                            <div class="text-s mb-0 font-weight-bold text-gray-800 urlIdentification">http://127.0.0.1:8036/<%-endpointName%></div>
+                                                            <p>/</p>
+                                                            <input class = "InputtedID" name = "InputtedID" required></input>
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <div class="col-auto">
+                                                        <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>    
+                                </div>
+                            </div>
+
+                            <div class = "RequestHeaders">
+                                <div class = "row">
+                                    <!-- Earnings (Monthly) Card Examaple -->
+                                    <div class="col-12 mt-2" >
+                                        <div class="card border-left-primary shadow h-100 py-2">
+                                            <div class="card-body" >
+                                                <div class="row no-gut
+                                                ters align-items-center">
+                                                    <div class="col mr-2">
+                                                        <div class="h5 font-weight-bold text-primary text-uppercase mb-1">Request Headers</div>
+                                                        <div class="text-xs mb-0 font-weight-bold text-gray-800">Content-Type: <br>application/json</div>
+                                                        <br>
+                                                        <div class="text-xs mb-0 font-weight-bold text-gray-800 d-flex flex-wrap">API-KEY: awt_ab598017be4550411284958a4c2014ec56000457792e7b92307137b824a24d38_6ee865bfab165006ae13495fdcd6617c1c300c0b98aaa0b078e0ff52091a96ac</div>
+                                                    </div>
+                                                    
+                                                    <div class="col-auto">
+                                                        <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>    
+                                </div>
+                            </div>
+
+                            <div class = "RequestBody">
+                                <div class = "row">
+                                    <!-- Earnings (Monthly) Card Examaple -->
+                                    <div class="col-12 mt-2" >
+                                        <div class="card border-left-primary shadow h-100 py-2">
+                                            <div class="card-body" >
+                                                <div class="row no-gut
+                                                ters align-items-center">
+                                                    <div class="col mr-2">
+                                                        <div class="h5 font-weight-bold text-primary text-uppercase mb-1">Request Body</div>
+                                                        <textarea class="text-xs mb-0 font-weight-bold text-gray-800 p-4 inputtedData"></textarea>
+                                                       
+
+                                                    </div>
+                                                    <div class="col-auto">
+                                                        <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>    
+                                </div>
+                            </div>
+
+                            <div class="RequestResponse">
+                                <div class = "row">
+                                    <!-- Earnings (Monthly) Card Examaple -->
+                                    <div class="col-12 mt-2" >
+                                        <div class="card border-left-primary shadow h-100 py-2">
+                                            <div class="card-body" >
+                                                <div class="row no-gut
+                                                ters align-items-center">
+                                                    <div class="col mr-2">
+                                                        <div class="h5 font-weight-bold text-primary text-uppercase mb-1">Request Response</div>
+                                                        <div class="text-xs mb-0 font-weight-bold Response p-4">   
+                                                    </div>
+                                                    <div class="col-auto">
+                                                        <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>    
+                                </div>
+                            </div>
+
+                            <button class="btn btn-primary btn-sm m-4 btn-TestEndpoint">TEST ENDPOINT</button>
+                        </div>
+                <!-- End of Main Content -->
+            </div>
+            <!-- End of Content Wrapper -->
+    
+        </div>
+  
+
+    <script src = "js/app.js">  </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <%- include('partials/scripts'); %>
+
+</body>
+</html>

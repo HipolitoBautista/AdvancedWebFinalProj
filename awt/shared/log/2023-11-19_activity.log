@@ -1,0 +1,30 @@
+[2023-11-19T05:23:17.012248+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-19T05:23:17.014966+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:24:48.843166+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-19T05:24:48.843447+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:24:51.005232+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:24:51.005676+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:25:12.313992+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:25:12.314311+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:26:21.715001+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:26:21.715413+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:27:19.039456+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:27:19.039842+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:27:25.577665+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-19T05:27:25.577965+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:27:27.358191+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:27:27.358533+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:27:41.396241+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:27:41.396562+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:27:50.543736+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:27:50.544111+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:27:59.565777+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:27:59.566094+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:28:34.329973+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:28:34.330509+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:28:42.925040+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-19T05:28:42.925596+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:28:46.330642+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:28:46.331314+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-19T05:29:17.774459+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-19T05:29:17.774702+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]

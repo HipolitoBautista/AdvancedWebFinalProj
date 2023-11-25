@@ -1,0 +1,12 @@
+version: "2.1"
+services:
+  apache:
+    container_name: awt-server
+    image: awt/php:8.1-apache
+    volumes:
+        - /home/hbautista/Development/awt/shared:/var/www/html
+    ports:
+        - 8036:80
+    restart: unless-stopped
+    environment:
+    

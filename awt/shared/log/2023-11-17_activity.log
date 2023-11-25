@@ -1,0 +1,44 @@
+[2023-11-17T19:39:46.873117+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T19:39:46.885799+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T19:40:39.974506+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-17T19:40:39.974784+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T19:40:48.108392+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T19:40:48.108714+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T19:50:56.108407+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T19:50:56.109557+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T20:01:54.282605+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T20:01:54.282973+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:48:25.832029+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:48:25.832394+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:48:25.834323+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:48:31.260797+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:48:31.261010+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:48:31.261882+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:48:57.043816+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:48:57.044206+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:48:57.045879+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:49:11.283796+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:49:11.284277+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:49:11.284837+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:49:17.551114+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:49:17.551433+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:49:17.552602+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:49:41.048881+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:49:41.049098+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:49:41.050055+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:49:45.121853+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:49:45.122028+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:49:45.122954+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:50:32.944428+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{}"
+[2023-11-17T21:50:32.944729+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:50:32.946150+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('undefined') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-17T21:52:44.434579+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T21:52:44.436736+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:54:13.789045+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T21:54:13.789902+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:57:21.159010+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T21:57:21.159671+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T21:57:56.395067+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T21:57:56.395372+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-17T22:05:21.173992+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-17T22:05:21.174296+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]

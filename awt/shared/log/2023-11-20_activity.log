@@ -1,0 +1,20 @@
+[2023-11-20T23:14:18.647833+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-20T23:14:18.654704+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:14:38.323552+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-20T23:14:38.324134+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:16:12.360860+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-20T23:16:12.361131+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:19:51.930200+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-20T23:19:51.930703+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:21:23.119640+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-20T23:21:23.120165+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:23:09.228911+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"strongpassword123\"\n}"
+[2023-11-20T23:23:09.229075+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:25:38.884709+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"strongpassword123\"\n}"
+[2023-11-20T23:25:38.884933+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:27:00.114261+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-20T23:27:00.114411+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:52:31.291402+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"strongpassword123\"\n}"
+[2023-11-20T23:52:31.297011+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-20T23:56:53.173283+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"strongpassword123\"\n}"
+[2023-11-20T23:56:53.181003+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]

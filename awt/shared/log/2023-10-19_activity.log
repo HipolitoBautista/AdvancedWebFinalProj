@@ -1,0 +1,381 @@
+[2023-10-19T15:26:54.431947+00:00] AWT.INFO: Request::process--- request received --applications--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:27:28.522315+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:27:28.522517+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T15:27:28.522578+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:28:01.821952+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:28:01.822164+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:28:01.822213+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:30:50.136968+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:30:50.137661+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:30:50.137783+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T15:30:50.137824+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 2
+[2023-10-19T15:34:21.490247+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:34:21.490466+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:34:21.490523+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:36:43.341968+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:36:43.346007+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T15:36:43.347155+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:37:35.800695+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:37:35.800978+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T15:37:35.801038+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:38:35.726441+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:38:35.727577+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T15:38:35.727704+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:39:41.256434+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:39:41.256686+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:39:41.256727+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:39:56.841273+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:39:56.841542+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:39:56.841608+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:40:56.678443+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:40:56.680083+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:40:56.680807+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:41:41.511647+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:41:41.511950+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:41:41.512027+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:42:09.191421+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:42:09.192135+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [-1] method [GET]
+[2023-10-19T15:42:09.192546+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:42:55.093136+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:42:55.093468+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T15:42:55.093576+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:44:03.162889+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:44:03.163137+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T15:44:03.163228+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T15:44:03.163255+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 2
+[2023-10-19T15:44:12.749792+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:44:12.750042+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T15:44:12.750107+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:44:39.559055+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:44:39.560019+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T15:44:39.560395+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:44:44.507137+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T15:44:44.508563+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T15:44:44.508730+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T15:44:44.508779+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 2
+[2023-10-19T15:44:54.607881+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T15:44:54.608095+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T15:44:54.608180+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T15:44:54.608218+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T15:45:05.348017+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:45:05.348579+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [POST]
+[2023-10-19T15:45:30.949151+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:45:30.949757+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:45:30.950141+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:49:15.778204+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:49:15.778402+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:49:15.778458+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:49:58.491976+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:49:58.492183+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:50:45.297162+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-10-19T15:50:45.297640+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [DELETE]
+[2023-10-19T15:50:45.297893+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T15:52:32.776246+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-10-19T15:52:32.777260+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [DELETE]
+[2023-10-19T15:52:42.237721+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:52:42.237870+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:52:48.642264+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-10-19T15:52:48.642465+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [DELETE]
+[2023-10-19T15:53:34.809331+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:53:34.810228+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:55:13.674582+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:55:13.674830+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:55:43.330494+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:55:43.330808+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:55:49.881353+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:55:49.881840+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:56:50.350852+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:56:50.351419+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:57:27.050688+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"ann\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:57:27.050874+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T15:59:25.106818+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"ann\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T15:59:25.107159+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T16:00:39.066706+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"ann\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T16:00:39.068177+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T16:02:23.666402+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"ann\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T16:02:23.666661+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [PUT]
+[2023-10-19T16:02:23.749232+00:00] AWT.ERROR: [Exception: No records were updated. The ID may not exist in the table. in /var/www/html/classes/class.applicants.php:373 Stack trace: #0 /var/www/html/classes/class.applicants.php(111): Applicants->UpdateUser(Array, '13') #1 /var/www/html/classes/class.request.php(61): Applicants->PUT(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-10-19T16:02:31.613746+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"first_name\": \"ann\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeeee322\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T16:02:31.614280+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [123] method [PUT]
+[2023-10-19T16:04:59.142923+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-10-19T16:04:59.143317+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [DELETE]
+[2023-10-19T16:04:59.143406+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T16:05:26.051464+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-10-19T16:05:26.051933+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [13] method [DELETE]
+[2023-10-19T18:59:17.997514+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T18:59:18.004276+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T18:59:18.004518+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:01:04.054844+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:01:04.055203+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:01:04.055265+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:02:28.779858+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:02:28.780240+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:02:28.780299+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:02:41.557702+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T19:02:41.557970+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T19:02:41.558020+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:07:05.872038+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T19:07:05.872311+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T19:07:05.872364+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:07:15.790494+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:07:15.790773+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:07:15.790822+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:08:50.439991+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:08:50.440314+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:08:50.440392+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:09:27.689144+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:09:27.689508+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:09:27.689554+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:09:46.773659+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:09:46.774011+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:09:46.774058+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:10:21.828631+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:10:21.828917+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:10:21.828978+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:11:10.995640+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:11:10.997500+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:11:10.997709+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:11:21.508281+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:11:21.508590+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:11:21.508635+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:11:24.042050+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:11:24.042538+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:11:24.042591+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:11:43.713200+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:11:43.716288+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:11:43.716477+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:12:11.071531+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:12:11.071847+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:12:11.071901+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:13:48.349258+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:13:48.350733+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:13:48.350844+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:14:17.076478+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:14:17.076750+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:14:17.076793+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:17:10.935161+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:17:10.936052+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:17:10.936131+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:21:28.345525+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:21:28.346551+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:21:28.346894+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:22:15.169351+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:22:15.169787+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:22:15.169874+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:22:29.766539+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:22:29.766920+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:22:29.766986+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:23:40.813769+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:23:40.814151+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:23:40.814210+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:26:54.905890+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:26:54.906316+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:26:54.906390+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T19:26:54.906420+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T19:29:04.817482+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:29:04.817957+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:29:04.818021+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:29:27.690064+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:29:27.690523+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:29:27.690593+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:31:56.652526+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:31:56.652827+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T19:31:56.652869+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:32:05.892146+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:32:05.892644+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [test] method [GET]
+[2023-10-19T19:32:05.892709+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:32:27.320949+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:32:27.321271+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [test] method [GET]
+[2023-10-19T19:32:27.321321+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:32:59.493660+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:32:59.494145+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [test] method [GET]
+[2023-10-19T19:32:59.494209+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:33:19.208789+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:33:19.209395+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [test] method [GET]
+[2023-10-19T19:33:19.209456+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:35:01.470921+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:35:01.471209+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [test] method [GET]
+[2023-10-19T19:35:01.471377+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:35:26.853339+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:35:26.853722+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [test] method [GET]
+[2023-10-19T19:35:26.853786+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T19:35:51.404190+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T19:35:51.405747+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [test] method [GET]
+[2023-10-19T19:35:51.405894+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:46:58.248772+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:46:58.251007+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:46:58.251157+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:47:28.878293+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:47:28.879154+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:47:28.879904+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:48:58.860067+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:48:58.860268+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:48:58.860318+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:49:28.194294+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:49:28.194514+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:49:28.194564+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:49:32.329459+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:49:32.329788+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:49:32.329852+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:50:13.980847+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:50:13.981078+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:50:13.981131+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:51:23.774466+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:51:23.774630+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:51:23.774662+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T22:51:59.630376+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T22:51:59.630596+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T22:51:59.630657+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:00:21.333858+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:00:21.334303+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:00:21.334377+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:00:44.924264+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:00:44.924589+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:00:44.924655+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:01:37.109515+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:01:37.109939+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:01:37.109996+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:02:48.659323+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:02:48.659760+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:02:48.659857+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:03:55.401597+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:03:55.402376+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:03:55.402635+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:04:51.970968+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:04:51.971189+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:04:51.971232+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:06:30.947509+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:06:30.947689+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:06:30.947725+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:07:56.655938+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:07:56.656167+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:07:56.656209+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:09:19.344296+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:09:19.344844+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:09:19.345093+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:09:21.305066+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:09:21.305779+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:09:21.306011+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:10:00.230733+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:10:00.230959+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:10:00.231007+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:10:01.885676+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:10:01.885964+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:10:01.886015+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:10:03.177178+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:10:03.177612+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:10:03.177916+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:11:45.780340+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:11:45.780592+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:11:45.780654+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:11:45.780686+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:12:56.763026+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:12:56.763296+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [] method [GET]
+[2023-10-19T23:12:56.763527+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:12:56.763565+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:14:30.009959+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:14:30.010110+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:14:30.010138+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:16:51.955553+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:16:51.955763+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:16:51.955821+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:16:51.955852+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:17:38.265769+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:17:38.266178+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:17:38.266253+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:17:38.266283+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:17:39.674555+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:17:39.674761+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:17:39.674813+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:17:39.674836+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:20:02.419079+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:20:02.419278+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:20:02.419339+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:20:02.419367+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:20:17.671210+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:20:17.671438+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:20:17.671478+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:21:08.479716+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:21:08.479943+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:21:08.479995+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:22:44.623571+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:22:44.624531+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:22:44.624696+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:22:50.507754+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:22:50.508103+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:22:50.508286+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:22:50.508443+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:23:09.225758+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:23:09.225943+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:23:09.225983+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:23:12.235920+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:23:12.236057+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:23:12.236085+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:23:14.628400+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:23:14.628600+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:23:14.628640+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:23:15.827123+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:23:15.827320+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:23:15.827361+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:23:17.079731+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:23:17.079972+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:23:17.080007+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:24:37.536719+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:24:37.537470+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [1] method [GET]
+[2023-10-19T23:24:37.537587+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:28:02.751211+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:28:02.752503+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:28:10.846207+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:28:10.846587+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-10-19T23:28:10.846681+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:28:10.846720+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:28:31.747208+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:28:31.747478+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-10-19T23:28:31.747543+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:28:31.747573+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:28:39.475324+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:28:39.476666+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:28:39.476822+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:38:58.241385+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:38:58.241763+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:38:58.241825+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:39:00.183580+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:39:00.183928+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:39:00.184057+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:40:02.179037+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:40:02.179384+00:00] AWT.ERROR: Authorization::checkPermissionparent resource [applicants] not exists in permission list
+[2023-10-19T23:40:10.292616+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:40:10.293058+00:00] AWT.ERROR: Authorization::checkPermissionparent resource [applicants] not exists in permission list
+[2023-10-19T23:53:25.408716+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:53:25.409214+00:00] AWT.ERROR: Authorization::checkPermissionparent resource [applicants] not exists in permission list
+[2023-10-19T23:53:31.179381+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:53:31.179551+00:00] AWT.ERROR: Authorization::checkPermissionparent resource [applicants] not exists in permission list
+[2023-10-19T23:53:53.398266+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 5}\n}"
+[2023-10-19T23:53:53.398620+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-10-19T23:53:53.398709+00:00] AWT.DEBUG: getAllApplicants() orderSql: ORDER BY first_name asc, country desc
+[2023-10-19T23:53:53.398739+00:00] AWT.DEBUG: getAllStudents() pagingSql: LIMIT 0, 5
+[2023-10-19T23:53:59.686613+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:53:59.686939+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:54:29.526273+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-10-19T23:54:29.526445+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-10-19T23:54:29.526488+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:55:33.213420+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T23:55:33.214099+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-10-19T23:55:33.214603+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:55:43.523159+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T23:55:43.523374+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-10-19T23:55:43.523415+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:55:56.255119+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T23:55:56.255465+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-10-19T23:56:23.407651+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T23:56:23.407919+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-10-19T23:56:23.407980+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:58:52.529496+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T23:58:52.529711+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-10-19T23:58:52.529756+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:59:18.507773+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T23:59:18.507970+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-10-19T23:59:18.508049+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted
+[2023-10-19T23:59:55.696498+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"id\": 13,\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"country\": \"USA\",\n    \"username\": \"johndoeee123\",\n    \"password\": \"strongpassword123\"\n}\n"
+[2023-10-19T23:59:55.696893+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [POST]
+[2023-10-19T23:59:55.696980+00:00] AWT.ERROR: Authorization::checkPermissionsubResource sub resource no permission granted

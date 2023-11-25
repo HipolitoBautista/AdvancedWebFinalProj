@@ -1,0 +1,86 @@
+[2023-11-18T14:27:19.507987+00:00] AWT.ERROR: redis object creation failed.RedisException: Connection refused in /var/www/html/classes/class.handler.php:53 Stack trace: #0 /var/www/html/classes/class.handler.php(53): Redis->connect('172.19.0.3', '6379') #1 /var/www/html/classes/class.request.php(5): Handler->__construct() #2 /var/www/html/index.php(13): Request->__construct() #3 {main}
+[2023-11-18T14:27:19.509597+00:00] AWT.ERROR: Request::rateLimitCheckRedis object not operational.
+[2023-11-18T14:27:20.320702+00:00] AWT.ERROR: redis object creation failed.RedisException: Connection refused in /var/www/html/classes/class.handler.php:53 Stack trace: #0 /var/www/html/classes/class.handler.php(53): Redis->connect('172.19.0.3', '6379') #1 /var/www/html/classes/class.request.php(5): Handler->__construct() #2 /var/www/html/index.php(13): Request->__construct() #3 {main}
+[2023-11-18T14:27:20.321219+00:00] AWT.ERROR: Request::rateLimitCheckRedis object not operational.
+[2023-11-18T14:27:21.319644+00:00] AWT.ERROR: redis object creation failed.RedisException: Connection refused in /var/www/html/classes/class.handler.php:53 Stack trace: #0 /var/www/html/classes/class.handler.php(53): Redis->connect('172.19.0.3', '6379') #1 /var/www/html/classes/class.request.php(5): Handler->__construct() #2 /var/www/html/index.php(13): Request->__construct() #3 {main}
+[2023-11-18T14:27:21.320030+00:00] AWT.ERROR: Request::rateLimitCheckRedis object not operational.
+[2023-11-18T14:27:21.533515+00:00] AWT.ERROR: redis object creation failed.RedisException: Connection refused in /var/www/html/classes/class.handler.php:53 Stack trace: #0 /var/www/html/classes/class.handler.php(53): Redis->connect('172.19.0.3', '6379') #1 /var/www/html/classes/class.request.php(5): Handler->__construct() #2 /var/www/html/index.php(13): Request->__construct() #3 {main}
+[2023-11-18T14:27:21.533798+00:00] AWT.ERROR: Request::rateLimitCheckRedis object not operational.
+[2023-11-18T14:27:22.044441+00:00] AWT.ERROR: redis object creation failed.RedisException: Connection refused in /var/www/html/classes/class.handler.php:53 Stack trace: #0 /var/www/html/classes/class.handler.php(53): Redis->connect('172.19.0.3', '6379') #1 /var/www/html/classes/class.request.php(5): Handler->__construct() #2 /var/www/html/index.php(13): Request->__construct() #3 {main}
+[2023-11-18T14:27:22.045182+00:00] AWT.ERROR: Request::rateLimitCheckRedis object not operational.
+[2023-11-18T14:27:22.296266+00:00] AWT.ERROR: redis object creation failed.RedisException: Connection refused in /var/www/html/classes/class.handler.php:53 Stack trace: #0 /var/www/html/classes/class.handler.php(53): Redis->connect('172.19.0.3', '6379') #1 /var/www/html/classes/class.request.php(5): Handler->__construct() #2 /var/www/html/index.php(13): Request->__construct() #3 {main}
+[2023-11-18T14:27:22.296469+00:00] AWT.ERROR: Request::rateLimitCheckRedis object not operational.
+[2023-11-18T14:30:27.547388+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T14:30:27.547614+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T14:31:08.483898+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T14:31:08.484167+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T14:36:11.373868+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T14:36:11.375605+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T14:37:40.805117+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T14:37:40.805381+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T14:43:00.721909+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T14:43:00.722313+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T14:44:55.816549+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T14:44:55.816856+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:23:34.983461+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:23:35.001883+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:23:37.645169+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T22:23:37.645381+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:24:33.449498+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:24:33.449685+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:24:39.766661+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T22:24:39.766813+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:25:17.834721+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:25:17.834988+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:25:19.693549+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T22:25:19.693739+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:25:45.288916+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T22:25:45.290828+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:25:46.988614+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T22:25:46.988787+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:26:05.045782+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:26:05.046016+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:26:06.803127+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T22:26:06.803352+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:28:28.651338+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:28:28.651546+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:33:05.943808+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:33:05.944099+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:40:07.673375+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:40:07.673621+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:43:10.947590+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:43:10.947882+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T22:58:15.544843+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T22:58:15.546738+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:08:49.497617+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T23:08:49.498304+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:10:29.406962+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T23:10:29.407172+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:12:24.034158+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T23:12:24.034479+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:12:45.066875+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:12:45.067123+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:12:52.944948+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T23:12:52.945203+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:12:54.956305+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:12:54.956490+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:14:50.007210+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:14:50.007357+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:15:59.699108+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:15:59.699300+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:16:16.304424+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:16:16.304650+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:16:45.922091+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:16:45.922245+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:16:52.010109+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:16:52.010346+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:16:57.758643+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-18T23:16:57.759106+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:16:59.388908+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:16:59.389097+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:17:03.117306+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:17:03.117514+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:17:09.334788+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:17:09.334976+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-18T23:17:13.060508+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-18T23:17:13.060651+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]

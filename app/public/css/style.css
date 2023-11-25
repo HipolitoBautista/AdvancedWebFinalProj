@@ -1,0 +1,48 @@
+.endpoint{
+    transition: transform 0.2s ease-in-out;
+}
+
+.endpoint:hover{
+    transform: scale(1.015);
+  }
+
+  a{
+    width: 100vw;
+  }
+
+  .background-endpoint-column{
+    background-color: #858796;
+    width: 100vw;
+  }
+
+ 
+  textarea {
+    width: 100%;
+    height: 20rem;
+  }
+
+  .Response{
+    width: 100%;
+    min-height: 20rem;
+    height: fit-content;
+    border: 1px solid black;
+    white-space: pre-wrap;
+    color: rgb(247, 72, 72);
+  }
+  .InputtedID{
+    width: 2%;
+    height: 2%;
+    min-width: 25px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .logout a{
+    color: #fff;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+

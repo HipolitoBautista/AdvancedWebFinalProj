@@ -1,0 +1,28 @@
+[2023-11-21T03:32:39.575894+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-21T03:32:39.576751+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-21T03:32:42.652420+00:00] AWT.INFO: Request::process--- request received --applications--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-21T03:32:42.652812+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-21T03:32:42.652907+00:00] AWT.DEBUG: getAllApplications() orderSql: 
+[2023-11-21T03:32:42.652950+00:00] AWT.DEBUG: getAllApplications() pagingSql: LIMIT 2
+[2023-11-21T03:32:46.515084+00:00] AWT.INFO: Request::process--- request received --applications--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-21T03:32:46.515698+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-21T03:32:46.515804+00:00] AWT.DEBUG: getAllApplications() orderSql: 
+[2023-11-21T03:32:46.515835+00:00] AWT.DEBUG: getAllApplications() pagingSql: LIMIT 2
+[2023-11-21T03:32:49.866364+00:00] AWT.INFO: Request::process--- request received --applications--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-21T03:32:49.867051+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-21T03:32:49.867158+00:00] AWT.DEBUG: getAllApplications() orderSql: 
+[2023-11-21T03:32:49.867201+00:00] AWT.DEBUG: getAllApplications() pagingSql: LIMIT 2
+[2023-11-21T03:32:54.612946+00:00] AWT.INFO: Request::process--- request received --applications--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-21T03:32:54.613540+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-21T03:32:54.613634+00:00] AWT.DEBUG: getAllApplications() orderSql: 
+[2023-11-21T03:32:54.613663+00:00] AWT.DEBUG: getAllApplications() pagingSql: LIMIT 2
+[2023-11-21T04:56:58.310938+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\"username\":\"johndoeee123\",\"password\":\"strongpassword123\"}"
+[2023-11-21T04:56:58.318109+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-21T04:57:01.413202+00:00] AWT.INFO: Request::process--- request received --applications--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-21T04:57:01.413495+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-21T04:57:01.413580+00:00] AWT.DEBUG: getAllApplications() orderSql: 
+[2023-11-21T04:57:01.413624+00:00] AWT.DEBUG: getAllApplications() pagingSql: LIMIT 2
+[2023-11-21T04:57:20.197884+00:00] AWT.INFO: Request::process--- request received --applications--- parameters:"{\"username\":\"tjoinson9\",\"password\":\"james\"}"
+[2023-11-21T04:57:20.198170+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [empty] method [GET]
+[2023-11-21T04:57:20.198242+00:00] AWT.DEBUG: getAllApplications() orderSql: 
+[2023-11-21T04:57:20.198273+00:00] AWT.DEBUG: getAllApplications() pagingSql: LIMIT 2

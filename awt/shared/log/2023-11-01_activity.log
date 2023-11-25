@@ -1,0 +1,98 @@
+[2023-11-01T03:25:07.045874+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T03:25:07.048623+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T03:26:24.983268+00:00] AWT.ERROR: Request::checkApiKey invalid api key format
+[2023-11-01T03:27:22.189124+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T03:27:22.189357+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T15:39:39.629430+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T15:39:39.635006+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T15:41:11.248592+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T15:41:11.252722+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T15:44:32.546765+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T15:44:32.550191+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T15:47:22.985066+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T15:47:22.985344+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T15:54:18.576300+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T15:54:18.576809+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T16:01:13.212978+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T16:01:13.213396+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T18:52:40.198231+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T18:52:40.215948+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:21:47.275175+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:21:47.275665+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:21:47.302104+00:00] AWT.ERROR: [mysqli_sql_exception: Unknown column 'johndoeee123' in 'where clause' in /var/www/html/classes/class.applicants.php:223 Stack trace: #0 /var/www/html/classes/class.applicants.php(223): mysqli->prepare('SELECT * FROM a...') #1 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('johndoeee123') #2 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-01T19:22:38.829279+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:22:38.829444+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:22:38.831638+00:00] AWT.ERROR: [mysqli_sql_exception: Unknown column 'johndoeee123' in 'where clause' in /var/www/html/classes/class.applicants.php:223 Stack trace: #0 /var/www/html/classes/class.applicants.php(223): mysqli->prepare('SELECT * FROM a...') #1 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('johndoeee123') #2 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-01T19:25:31.127574+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:25:31.127971+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:25:31.131675+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:228 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('1') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-01T19:25:37.956084+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:25:37.956335+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:25:37.958145+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:228 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('123') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-01T19:26:14.900840+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:26:14.902304+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:27:09.843736+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:27:09.844035+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:27:23.654321+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:27:23.654587+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:27:23.656243+00:00] AWT.ERROR: [mysqli_sql_exception: Unknown column 'tjoinson9' in 'where clause' in /var/www/html/classes/class.applicants.php:225 Stack trace: #0 /var/www/html/classes/class.applicants.php(225): mysqli->prepare('SELECT * FROM a...') #1 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('tjoinson9') #2 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-01T19:28:10.201333+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T19:28:10.201594+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T19:28:10.203875+00:00] AWT.ERROR: [mysqli_sql_exception: Unknown column 'tjoinson9' in 'where clause' in /var/www/html/classes/class.applicants.php:225 Stack trace: #0 /var/www/html/classes/class.applicants.php(225): mysqli->prepare('SELECT * FROM a...') #1 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('tjoinson9') #2 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #3 /var/www/html/index.php(20): Request->process(Array, Array) #4 {main}]
+[2023-11-01T21:53:43.279721+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T21:53:43.284755+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T21:57:22.276642+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T21:57:22.276922+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:01:06.096777+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T22:01:06.097466+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:01:18.897305+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T22:01:18.897543+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:08:41.642680+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"order\":{\"first_name\":\"asc\", \"country\":\"desc\"},\n    \"paging\": {\"start\":0, \"end\": 2}\n}"
+[2023-11-01T22:08:41.642898+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:27:53.083811+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:27:53.085451+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:29:18.384929+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:29:18.385209+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:32:22.532069+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:32:22.532339+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:32:57.823147+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:32:57.824357+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:34:47.639673+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:34:47.640326+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:35:14.922727+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:35:14.923058+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:35:34.896348+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:35:34.896584+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:37:02.253932+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:37:02.254717+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:44:34.994527+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:44:34.994879+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:44:34.996615+00:00] AWT.ERROR: [Exception: No applicant records found. in /var/www/html/classes/class.applicants.php:229 Stack trace: #0 /var/www/html/classes/class.applicants.php(47): Applicants->getSingleApplicant('1') #1 /var/www/html/classes/class.request.php(69): Applicants->GET(Array) #2 /var/www/html/index.php(20): Request->process(Array, Array) #3 {main}]
+[2023-11-01T22:45:26.382131+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:45:26.382550+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:54:41.939405+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:54:41.940122+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:55:13.956323+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:55:13.956587+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:55:16.304204+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:55:16.304482+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:58:27.161188+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:58:27.161497+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:58:28.568466+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:58:28.568644+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:58:28.703773+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:58:28.704034+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:58:28.906255+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:58:28.906523+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:58:29.086396+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:58:29.086672+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:58:42.633482+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:"{\n    \"password\": \"james\"\n}"
+[2023-11-01T22:58:42.633668+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:59:53.667291+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:59:53.668143+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:59:53.960602+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:59:53.961106+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:59:54.061397+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:59:54.061680+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
+[2023-11-01T22:59:54.293884+00:00] AWT.INFO: Request::process--- request received --applicants--- parameters:""
+[2023-11-01T22:59:54.294053+00:00] AWT.DEBUG: Authorization::checkPermissionsubResource [/] method [GET]
